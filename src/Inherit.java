@@ -1,3 +1,7 @@
+/**
+*Inherit usage demo
+*/
+
 public class Inherit{
 	public static void main(String[] args){
 		Car car1 = new SmallCar("BenZ",100,20);
