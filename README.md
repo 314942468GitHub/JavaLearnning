@@ -1,2 +1,2 @@
 # JavaLearnning
-This is my  java-learning example
+This is my java-learning example repo
